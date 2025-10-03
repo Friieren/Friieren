@@ -16,7 +16,7 @@
 ---
 
 ## 📊 GitHubの統計
-![Friieren's GitHub stats](https://github-readme-stats.vercel.app/api?username=TonPseudoGitHub&show_icons=true&theme=radical)
+![Friieren's GitHub stats](https://github-readme-stats.vercel.app/api?username=Friieren&show_icons=true&theme=radical)
 
 ---
 
