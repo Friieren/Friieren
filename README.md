@@ -29,7 +29,7 @@
 
 ## 📫 連絡先 / SNS
 - [Discord](@Thomana31)  
-- [Twitter]([https://twitter.com/@ThomasOtsuka](https://x.com/ThomasOtsuka))  
+- [Twitter]((https://x.com/ThomasOtsuka))  
 - [Portfolio](https://tonsite.com)  
 
 ---
